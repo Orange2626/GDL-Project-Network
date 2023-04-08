@@ -1,4 +1,4 @@
-# GDL-Project-TransUnet
+# GDL-Project-Network
 TransUNet code adapted for the GDL project including code to generate different embedding methods. Also added early stopping to the training and a training resume function as well as a naming option for the experiments.
 
 The code to change between the different embedding methods is found in the networks/vit_seg_modeling.py file in the embeddings section.

@@ -10,7 +10,7 @@ The code for the different embedding methods is found in the networks/vit_seg_mo
 wget https://storage.googleapis.com/vit_models/imagenet21k/{MODEL_NAME}.npz &&
 mkdir ../model/vit_checkpoint/imagenet21k &&
 mv {MODEL_NAME}.npz ../model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
-'''
+```
 
 ### 2. Prepare data:
 
